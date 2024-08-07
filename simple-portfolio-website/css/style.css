@@ -14,11 +14,13 @@
     z-index: 999;
 }
 
+
 #nav-logo {
     font-size: 24px;
     color: #000000;
     text-transform: uppercase;
     font-weight: bolder;
+    cursor: pointer; /* Add this line to make the nav-logo clickable */
 }
 
 .sticky {
